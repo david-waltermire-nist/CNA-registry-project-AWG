@@ -20,6 +20,8 @@ Define the purpose of the repo
 
 ## Removing a contributor entry
 
+## Authenticating a contributor
+
 # Requirements for Implementation 
 
 ## Data requirements
