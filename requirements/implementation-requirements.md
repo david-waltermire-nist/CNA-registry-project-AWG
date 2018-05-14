@@ -1,4 +1,4 @@
-# Implementation requirements for the CNA Registry
+# Implementation requirements for the CVE User Registry
 
 Define the purpose of the repo
 
